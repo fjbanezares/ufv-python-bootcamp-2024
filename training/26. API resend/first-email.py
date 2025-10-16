@@ -1,6 +1,6 @@
 import resend
 
-resend.api_key = "re_D3G91yfU_Cq6AiB4MPR3JTTcfG927YAZ4"
+resend.api_key = "xxx"
 
 r = resend.Emails.send({
     "from": "onboarding@resend.dev",
